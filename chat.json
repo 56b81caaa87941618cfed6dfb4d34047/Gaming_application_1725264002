@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific element do you want to be changed to pink (e.g., background, text, buttons)?\", \"option1\": \"Background\", \"option2\": \"Text\"}, {\"question 2\": \"Do you have a specific shade of pink in mind, or should I choose a standard pink color?\", \"option1\": \"I have a specific shade\", \"option2\": \"Choose a standard pink\"}], \"input_token_count\": 327, \"output_token_count\": 97, \"time_taken\": \"0:00:02.017797\"}",
+        "message_id": "guest19112024151139",
+        "timestamp": "19112024151143",
+        "component_file_name": "purple_background_cta_component_1725264005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019m in the process of changing this to pink.",
         "message_id": "guest19112024151139",
