@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm adding a form right there as requested.",
+        "message_id": "guest19112024151113",
+        "timestamp": "19112024151114",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form here",
         "message_id": "guest19112024151113",
