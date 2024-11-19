@@ -1,5 +1,29 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a custom color picker for user to select colors\", \"checked\": true}, {\"feature\": \"Include color change effects for interactive elements\", \"checked\": false}, {\"feature\": \"Display a color palette for theme selection\", \"checked\": true}, {\"feature\": \"Allow users to save custom color themes\", \"checked\": false}, {\"feature\": \"Implement a preview panel for color changes\", \"checked\": true}], \"input_token_count\": 281, \"output_token_count\": 99, \"time_taken\": \"0:00:03.157460\"}",
+        "message_id": "guest19112024151139",
+        "timestamp": "19112024151147",
+        "component_file_name": "purple_background_cta_component_1725264005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In the conversation, the user requested the AI to add a title to a project. The AI acknowledged this request by stating, \"Sure, I will add a title as requested,\" but sought further clarification by asking, \"Can you describe the project a bit more?\" Additionally, it was noted that the AI is trained on data up to October 2023.",
+        "timestamp": "19112024151147",
+        "message_id": "guest19112024151139"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific element do you want to be changed to pink (e.g., background, text, buttons)?\", \"option1\": \"Background\", \"option2\": \"Text\"}, {\"question 2\": \"Do you have a specific shade of pink in mind, or should I choose a standard pink color?\", \"option1\": \"I have a specific shade\", \"option2\": \"Choose a standard pink\"}], \"input_token_count\": 327, \"output_token_count\": 97, \"time_taken\": \"0:00:02.017797\"}",
+        "message_id": "guest19112024151139",
+        "timestamp": "19112024151143",
+        "component_file_name": "purple_background_cta_component_1725264005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019m in the process of changing this to pink.",
         "message_id": "guest19112024151139",
@@ -7,12 +31,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "19112024151140",
-        "message_id": "guest19112024151139"
     },
     {
         "role": "user",
@@ -73,24 +91,6 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like to use as the title?\", \"option1\": \"Enter a custom title\", \"option2\": \"Use a placeholder title\"}, {\"question 2\": \"Where would you like the title to be positioned within the game?\", \"option1\": \"Top of the screen\", \"option2\": \"Center of the screen\"}], \"input_token_count\": 280, \"output_token_count\": 85, \"time_taken\": \"0:00:01.314294\"}",
         "message_id": "guest19112024151053",
         "timestamp": "19112024151057",
-        "component_file_name": "purple_header_component_1725264005",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "\"Sure, I will add a title as requested.\"",
-        "message_id": "guest19112024151053",
-        "timestamp": "19112024151054",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a title here",
-        "message_id": "guest19112024151053",
-        "timestamp": "19112024151053",
         "component_file_name": "purple_header_component_1725264005",
         "div_id": "",
         "div_action": ""
