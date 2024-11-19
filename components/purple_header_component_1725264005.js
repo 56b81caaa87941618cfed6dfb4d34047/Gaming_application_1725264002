@@ -8,6 +8,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 <template>
   <header class="w-full z-30" id="header-section-container">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+      <h1 class="text-2xl font-bold text-center py-4 text-slate-800">Welcome to Our Website</h1>
       <div class="flex items-center justify-between h-16 md:h-20">
         <!-- Site Branding -->
         <div id="site-branding" class="flex-1">
