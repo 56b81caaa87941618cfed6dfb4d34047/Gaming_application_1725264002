@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What opacity level are you thinking for the blur effect on the background?\", \"option1\": \"Light blur (slight background visibility)\", \"option2\": \"Heavy blur (minimal background visibility)\"}, {\"question 2\": \"Would you like to incorporate any additional elements or textures over the green background?\", \"option1\": \"Yes, add textures or patterns\", \"option2\": \"No, keep it solid color\"}], \"input_token_count\": 483, \"output_token_count\": 99, \"time_taken\": \"0:00:01.740290\"}",
+        "message_id": "guest19112024151319",
+        "timestamp": "19112024151330",
+        "component_file_name": "purple_background_cta_component_1725264005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll proceed with a dark forest green background.",
         "message_id": "guest19112024151319",
