@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "\"Sure, I will add a title as requested.\"",
+        "timestamp": "19112024151054",
+        "message_id": "guest19112024151053"
+    },
+    {
         "role": "user",
         "content": "add a title here",
         "timestamp": "19112024151053",
