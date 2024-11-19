@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of green do you have in mind for the background?\", \"option1\": \"A light pastel green\", \"option2\": \"A dark forest green\"}, {\"question 2\": \"How pronounced do you want the blur effect to be?\", \"option1\": \"Slightly blurred\", \"option2\": \"Heavily blurred\"}], \"input_token_count\": 388, \"output_token_count\": 84, \"time_taken\": \"0:00:01.511802\"}",
+        "message_id": "guest19112024151224",
+        "timestamp": "19112024151228",
+        "component_file_name": "purple_background_cta_component_1725264005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make the background green and blurry",
         "message_id": "guest19112024151224",
