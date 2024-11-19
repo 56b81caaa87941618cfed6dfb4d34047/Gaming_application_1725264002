@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a title above the form\", \"checked\": true}, {\"feature\": \"Include input fields for user details\", \"checked\": true}, {\"feature\": \"Add a submit button\", \"checked\": true}, {\"feature\": \"Implement form validation feedback\", \"checked\": false}, {\"feature\": \"Design a responsive layout for mobile users\", \"checked\": false}], \"input_token_count\": 254, \"output_token_count\": 88, \"time_taken\": \"0:00:01.934668\"}",
+        "timestamp": "19112024151120",
+        "message_id": "guest19112024151113"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want in the form?\", \"option1\": \"Text input fields\", \"option2\": \"Dropdown menus\"}, {\"question 2\": \"How would you like the form to be styled?\", \"option1\": \"Minimalist design\", \"option2\": \"Colorful and engaging design\"}], \"input_token_count\": 300, \"output_token_count\": 77, \"time_taken\": \"0:00:01.365253\"}",
         "timestamp": "19112024151117",
