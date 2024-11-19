@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nUser: make this pink\nAI: Okay, I'm adding a form right there as requested.\nUser: add a form here\nAI: \"Sure, I will add a title as requested.\"\nUser: add a title here\n\nThis is the user's current request of changes to be made:\nmake this pink"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested to add a form, to which the AI responded by acknowledging the request and confirming the addition. The AI then posed two questions to the user regarding the form's fields and styling, offering options for text input fields or dropdown menus and a minimalist or colorful design. The user was also presented with a checklist of additional features, including a dynamic leaderboard, achievements system, multiplayer mode, level selection screen, and help section, with specific features checked as desired. Following this, the AI asked for the title's specifics, offering the choices of a custom title or a placeholder, as well as its positioning on the screen. The user requested a title, and the AI assured it would be added. Finally, the AI sought further details about the project.\nUser: make the background green and blurry\nAI: Sure, I'll make the background green and blurry.\nAI: Sure, I\u2019m in the process of changing this to pink.\nUser: make this pink\n\nThis is the user's current request of changes to be made:\nWhat shade of green do you have in mind for the background? A dark forest green"
     }
 ]
