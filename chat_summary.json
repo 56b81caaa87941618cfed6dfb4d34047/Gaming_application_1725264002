@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dynamic leaderboard to display top scores\", \"checked\": true}, {\"feature\": \"Include an achievements system to unlock rewards\", \"checked\": false}, {\"feature\": \"Implement a multiplayer mode for competitive gameplay\", \"checked\": false}, {\"feature\": \"Design a level selection screen for user navigation\", \"checked\": true}, {\"feature\": \"Create a tutorial or help section for new players\", \"checked\": false}], \"input_token_count\": 234, \"output_token_count\": 100, \"time_taken\": \"0:00:01.447789\"}",
+        "timestamp": "19112024151100",
+        "message_id": "guest19112024151053"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like to use as the title?\", \"option1\": \"Enter a custom title\", \"option2\": \"Use a placeholder title\"}, {\"question 2\": \"Where would you like the title to be positioned within the game?\", \"option1\": \"Top of the screen\", \"option2\": \"Center of the screen\"}], \"input_token_count\": 280, \"output_token_count\": 85, \"time_taken\": \"0:00:01.314294\"}",
         "timestamp": "19112024151057",
