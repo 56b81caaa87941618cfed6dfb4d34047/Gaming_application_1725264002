@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like to use as the title?\", \"option1\": \"Enter a custom title\", \"option2\": \"Use a placeholder title\"}, {\"question 2\": \"Where would you like the title to be positioned within the game?\", \"option1\": \"Top of the screen\", \"option2\": \"Center of the screen\"}], \"input_token_count\": 280, \"output_token_count\": 85, \"time_taken\": \"0:00:01.314294\"}",
+        "message_id": "guest19112024151053",
+        "timestamp": "19112024151057",
+        "component_file_name": "purple_header_component_1725264005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"Sure, I will add a title as requested.\"",
         "message_id": "guest19112024151053",
